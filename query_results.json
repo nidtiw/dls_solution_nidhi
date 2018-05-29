@@ -1,0 +1,51 @@
+[
+  {
+    "command_id": 1, 
+    "command_string": "ps", 
+    "duration": 0.015286685294287733, 
+    "length": 2, 
+    "output": "b''"
+  }, 
+  {
+    "command_id": 2, 
+    "command_string": "echo \"hello there\"", 
+    "duration": 0.00992583743192714, 
+    "length": 18, 
+    "output": "b'\"hello there\"\\r\\n'"
+  }, 
+  {
+    "command_id": 3, 
+    "command_string": "ls", 
+    "duration": 0.05383697493451889, 
+    "length": 2, 
+    "output": "b'Dockerfile\\nMakefile\\nREADME.md\\n__pycache__\\nbase.py\\ncommand_parser.py\\ncommands.db\\ncommands.txt\\ndb.py\\nmain.py\\nrequirements.txt\\n'"
+  }, 
+  {
+    "command_id": 4, 
+    "command_string": "grep \"pwd\" commands.txt", 
+    "duration": 0.013598351441430886, 
+    "length": 23, 
+    "output": "b''"
+  }, 
+  {
+    "command_id": 5, 
+    "command_string": "while true; do echo 'Ctrl c to kill'; sleep 1; done", 
+    "duration": 0.015675622687709015, 
+    "length": 51, 
+    "output": "b''"
+  }, 
+  {
+    "command_id": 6, 
+    "command_string": "pwd", 
+    "duration": 0.01247491124610886, 
+    "length": 3, 
+    "output": "b''"
+  }, 
+  {
+    "command_id": 7, 
+    "command_string": "grep \"ls\" commands.txt", 
+    "duration": 0.01466572541231595, 
+    "length": 22, 
+    "output": "b''"
+  }
+]

@@ -1,0 +1,15 @@
+[COMMAND_LIST]
+echojshdugf
+pwed
+lso
+grwp
+mkdir
+lets test all invalid commands output
+
+[VALID_COMMANDS]
+echojshdugf
+pwed
+lso
+grwp
+mkdir
+lets test all invalid commands output
